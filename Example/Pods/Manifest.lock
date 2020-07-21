@@ -1,0 +1,33 @@
+PODS:
+  - Masonry (1.1.0)
+  - MJRefresh (3.4.3)
+  - MLCategory (0.1.0):
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+
+DEPENDENCIES:
+  - MLCategory (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  MLCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+  MLCategory: 13f0972e1bc4eb73562efa6be0b81ec8a3ac43a1
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+
+PODFILE CHECKSUM: 3ee5b8d4c319538dfbd0d7eb8cee645c9b3be9d1
+
+COCOAPODS: 1.9.1

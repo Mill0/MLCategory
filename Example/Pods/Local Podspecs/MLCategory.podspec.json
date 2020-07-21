@@ -1,0 +1,33 @@
+{
+  "name": "MLCategory",
+  "version": "0.1.0",
+  "summary": "A short description of MLCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Milodongg/MLCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Milodongg": "dongguang@blockchainrdc.com"
+  },
+  "source": {
+    "git": "https://github.com/Milodongg/MLCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MLCategory/Classes/**/*",
+  "dependencies": {
+    "MJRefresh": [
+
+    ],
+    "SDWebImage": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

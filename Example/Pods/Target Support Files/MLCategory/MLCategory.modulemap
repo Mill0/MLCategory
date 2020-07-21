@@ -1,0 +1,6 @@
+framework module MLCategory {
+  umbrella header "MLCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
