@@ -22,7 +22,7 @@ pod 'MLCategory'
 
 ## Author
 
-Milodongg, dongguang@blockchainrdc.com
+Milodongg
 
 ## License
 
